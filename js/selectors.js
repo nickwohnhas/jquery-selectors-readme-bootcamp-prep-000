@@ -15,6 +15,6 @@ function divSelector(){
 var pic_class =  $('.pics')
 return pic_class
 }
-firstListItem(){
+function firstListItem(){
 
 }
