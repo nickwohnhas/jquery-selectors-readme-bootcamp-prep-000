@@ -3,3 +3,6 @@ function paragraphSelector(){
   var ptags = $('p')
   return ptags
 }
+function lastImageSelector(){
+  
+}
