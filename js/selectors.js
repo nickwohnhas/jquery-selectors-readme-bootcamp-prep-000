@@ -11,3 +11,7 @@ function ninjaBabySelector(){
   var ninja_baby = $('#baby-ninja')
   return ninja_baby
 }
+function divSelector(){
+var pic_class =  $('.pics')
+return pic_class
+}
