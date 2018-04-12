@@ -16,5 +16,6 @@ var pic_class =  $('.pics')
 return pic_class
 }
 firstListItem(){
-  $('#pic-list :first-child')
+var firstpic =  $('#pic-list:first-child')
+return firstpic
 }
